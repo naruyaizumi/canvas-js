@@ -1,6 +1,6 @@
 {
   "name": "day-canvas",
-  "version": "1.0.2",
+  "version": "10.0.4",
   "type": "module",
   "description": "Make configurable canvas easily",
   "main": "index.js",
