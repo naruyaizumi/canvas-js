@@ -1,10 +1,10 @@
-# canvas-js — Versi Modifikasi
+# day-canvas — Versi Modifikasi
 
 <p align="center">
   <img src="https://i.supa.codes/kyWCSZ" width="300" alt="Baileys WhatsApp API">
 </p>
 
-**canvas-js** adalah fork dari pustaka *Canvafy* karya [beykant](https://github.com/beykant), yang dimodifikasi dan disesuaikan untuk kebutuhan pengembangan modern dengan arsitektur modular, ringan, dan mendukung penuh ESM serta `@napi-rs/canvas`.
+**day-canvas** adalah fork dari pustaka *Canvafy* karya [beykant](https://github.com/beykant), yang dimodifikasi dan disesuaikan untuk kebutuhan pengembangan modern dengan arsitektur modular, ringan, dan mendukung penuh ESM serta `@napi-rs/canvas`.
 
 ## ✨ Tujuan Fork
 
@@ -19,17 +19,17 @@
 
 **npm**
 ```bash
-npm install canvas-js
+npm install day-canvas
 ```
 
 **yarn**
 ```bash
-yarn add canvas-js
+yarn add day-canvas
 ```
 
 **pnpm**
 ```bash
-pnpm install canvas-js
+pnpm install day-canvas
 ```
 
 ## ✍️ **Penggunaan**

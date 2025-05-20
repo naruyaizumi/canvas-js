@@ -1,6 +1,6 @@
 {
-  "name": "canvas-js",
-  "version": "1.0.0",
+  "name": "day-canvas",
+  "version": "1.0.2",
   "type": "module",
   "description": "Make configurable canvas easily",
   "main": "index.js",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naruyaizumi/canvas-js.git"
+    "url": "git+https://github.com/naruyaizumi/day-canvas.git"
   },
   "bugs": {
-    "url": "https://github.com/naruyaizumi/canvas-js"
+    "url": "https://github.com/naruyaizumi/day-canvas"
   },
   "homepage": "https://github.com/naruyaizumi",
   "dependencies": {
